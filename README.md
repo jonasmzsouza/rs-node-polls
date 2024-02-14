@@ -20,6 +20,9 @@
 This project is application developed in Node.js. Built in the 14th edition of NWL Expert by [Rocktseat](https://www.rocketseat.com.br/).<br>
 This is a real-time polling application using the WebSocket protocol.
 
+![rs-node-polls-diagram](https://github.com/jonasmzsouza/rs-node-polls/assets/61324433/1019fe4c-093f-470c-81de-1325ad347565)
+
+
 ---
 
 ## 🛠 Technologies
